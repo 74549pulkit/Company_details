@@ -1,0 +1,2233 @@
+2025-01-15 12:58:49,404 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for BioNTech SE
+2025-01-15 12:58:49,405 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for BeiGene, Ltd.
+2025-01-15 12:58:49,413 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Alnylam Pharmaceuticals, Inc.
+2025-01-15 12:58:49,417 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Regeneron Pharmaceuticals, Inc.
+2025-01-15 12:58:50,640 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Vertex Pharmaceuticals Incorporated
+2025-01-15 12:58:51,848 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Takeda Pharmaceutical Company Limited
+2025-01-15 12:58:52,639 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Zoetis Inc.
+2025-01-15 12:58:52,719 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Teva Pharmaceutical Industries Limited
+2025-01-15 12:58:53,106 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Haleon plc
+2025-01-15 12:58:53,415 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for argenx SE
+2025-01-15 12:59:02,136 - MainThread - INFO - Saved intermediate results with 10 entries
+2025-01-15 12:59:19,596 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Viatris Inc.
+2025-01-15 12:59:19,817 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Moderna, Inc.
+2025-01-15 12:59:22,243 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Royalty Pharma plc
+2025-01-15 12:59:23,784 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for United Therapeutics Corporation
+2025-01-15 12:59:27,220 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Neurocrine Biosciences, Inc.
+2025-01-15 12:59:28,270 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for BioMarin Pharmaceutical Inc.
+2025-01-15 12:59:28,439 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Incyte Corporation
+2025-01-15 12:59:29,083 - ThreadPoolExecutor-0_3 - ERROR - Failed to save logo for Genmab A/S: [Errno 2] No such file or directory: 'Data/company_logos_stock_analysis\\Genmab_A/S_logo.svg'
+2025-01-15 12:59:29,133 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Dr. Reddy's Laboratories Limited
+2025-01-15 12:59:29,283 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Summit Therapeutics Inc.
+2025-01-15 12:59:37,685 - MainThread - INFO - Saved intermediate results with 10 entries
+2025-01-15 12:59:46,008 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Sarepta Therapeutics, Inc.
+2025-01-15 12:59:47,281 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Insmed Incorporated
+2025-01-15 12:59:47,963 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Bio-Techne Corporation
+2025-01-15 12:59:53,423 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Intra-Cellular Therapies, Inc.
+2025-01-15 12:59:53,888 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Vaxcyte, Inc.
+2025-01-15 12:59:59,841 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Revolution Medicines, Inc.
+2025-01-15 12:59:59,911 - ThreadPoolExecutor-0_2 - ERROR - Failed to save logo for Ascendis Pharma A/S: [Errno 2] No such file or directory: 'Data/company_logos_stock_analysis\\Ascendis_Pharma_A/S_logo.svg'
+2025-01-15 13:00:00,210 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Roivant Sciences Ltd.
+2025-01-15 13:00:00,526 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Madrigal Pharmaceuticals, Inc.
+2025-01-15 13:00:07,306 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Exelixis, Inc.
+2025-01-15 13:00:15,578 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Jazz Pharmaceuticals plc
+2025-01-15 13:00:17,263 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Lantheus Holdings, Inc.
+2025-01-15 13:00:17,284 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Halozyme Therapeutics, Inc.
+2025-01-15 13:00:17,525 - MainThread - INFO - Saved intermediate results with 10 entries
+2025-01-15 13:00:22,360 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Blueprint Medicines Corporation
+2025-01-15 13:00:24,433 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Cytokinetics, Incorporated
+2025-01-15 13:00:32,437 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Elanco Animal Health Incorporated
+2025-01-15 13:00:33,381 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Ionis Pharmaceuticals, Inc.
+2025-01-15 13:00:33,398 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Legend Biotech Corporation
+2025-01-15 13:00:38,103 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for BridgeBio Pharma, Inc.
+2025-01-15 13:00:39,379 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Nuvalent, Inc.
+2025-01-15 13:00:46,120 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Krystal Biotech, Inc.
+2025-01-15 13:00:47,290 - MainThread - INFO - Saved intermediate results with 10 entries
+2025-01-15 13:00:51,587 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/tlx/: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B47C80D5+2992373]
+	(No symbol) [0x00007FF6B445BFD0]
+	(No symbol) [0x00007FF6B42F590A]
+	(No symbol) [0x00007FF6B434926E]
+	(No symbol) [0x00007FF6B434955C]
+	(No symbol) [0x00007FF6B433C6CC]
+	(No symbol) [0x00007FF6B436F3AF]
+	(No symbol) [0x00007FF6B433C596]
+	(No symbol) [0x00007FF6B436F580]
+	(No symbol) [0x00007FF6B438F584]
+	(No symbol) [0x00007FF6B436F113]
+	(No symbol) [0x00007FF6B433A918]
+	(No symbol) [0x00007FF6B433BA81]
+	GetHandleVerifier [0x00007FF6B4826A2D+3379789]
+	GetHandleVerifier [0x00007FF6B483C32D+3468109]
+	GetHandleVerifier [0x00007FF6B4830043+3418211]
+	GetHandleVerifier [0x00007FF6B45BC78B+847787]
+	(No symbol) [0x00007FF6B446757F]
+	(No symbol) [0x00007FF6B4462FC4]
+	(No symbol) [0x00007FF6B446315D]
+	(No symbol) [0x00007FF6B4452979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:00:53,618 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Alkermes plc
+2025-01-15 13:00:53,732 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Corcept Therapeutics Incorporated
+2025-01-15 13:00:59,268 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Viking Therapeutics, Inc.
+2025-01-15 13:00:59,361 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for TG Therapeutics, Inc.
+2025-01-15 13:01:02,021 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Alvotech
+2025-01-15 13:01:04,002 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for ADMA Biologics, Inc.
+2025-01-15 13:01:12,076 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Scholar Rock Holding Corporation
+2025-01-15 13:01:17,352 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Ultragenyx Pharmaceutical Inc.
+2025-01-15 13:01:22,452 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Crinetics Pharmaceuticals, Inc.
+2025-01-15 13:01:23,692 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Arcellx, Inc.
+2025-01-15 13:01:25,529 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Biohaven Ltd.
+2025-01-15 13:01:26,923 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Axsome Therapeutics, Inc.
+2025-01-15 13:01:32,050 - MainThread - INFO - Saved intermediate results with 13 entries
+2025-01-15 13:01:34,748 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Rhythm Pharmaceuticals, Inc.
+2025-01-15 13:01:36,569 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Immunovant, Inc.
+2025-01-15 13:01:38,708 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Verona Pharma plc
+2025-01-15 13:01:43,280 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Prestige Consumer Healthcare Inc.
+2025-01-15 13:01:46,482 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Apellis Pharmaceuticals, Inc.
+2025-01-15 13:01:46,659 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Avidity Biosciences, Inc.
+2025-01-15 13:01:53,738 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Perrigo Company plc
+2025-01-15 13:01:59,589 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for PTC Therapeutics, Inc.
+2025-01-15 13:02:00,266 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for CRISPR Therapeutics AG
+2025-01-15 13:02:02,291 - MainThread - INFO - Saved intermediate results with 7 entries
+2025-01-15 13:02:05,495 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Vericel Corporation
+2025-01-15 13:02:07,776 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Xenon Pharmaceuticals Inc.
+2025-01-15 13:02:07,975 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for MoonLake Immunotherapeutics
+2025-01-15 13:02:09,822 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for SpringWorks Therapeutics, Inc.
+2025-01-15 13:02:14,146 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Merus N.V.
+2025-01-15 13:02:23,094 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for ACADIA Pharmaceuticals Inc.
+2025-01-15 13:02:23,242 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Bausch Health Companies Inc.
+2025-01-15 13:02:27,298 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Amicus Therapeutics, Inc.
+2025-01-15 13:02:30,800 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Denali Therapeutics Inc.
+2025-01-15 13:02:32,792 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for HUTCHMED (China) Limited
+2025-01-15 13:02:37,789 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Janux Therapeutics, Inc.
+2025-01-15 13:02:38,906 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Zai Lab Limited
+2025-01-15 13:02:39,898 - MainThread - INFO - Saved intermediate results with 13 entries
+2025-01-15 13:02:44,675 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for NewAmsterdam Pharma Company N.V.
+2025-01-15 13:02:44,751 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Catalyst Pharmaceuticals, Inc.
+2025-01-15 13:02:50,411 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Kymera Therapeutics, Inc.
+2025-01-15 13:02:54,358 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Arrowhead Pharmaceuticals, Inc.
+2025-01-15 13:02:58,161 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Amneal Pharmaceuticals, Inc.
+2025-01-15 13:02:59,978 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Vera Therapeutics, Inc.
+2025-01-15 13:03:04,604 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Apogee Therapeutics, Inc.
+2025-01-15 13:03:07,918 - MainThread - INFO - Saved intermediate results with 8 entries
+2025-01-15 13:03:08,528 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Edgewise Therapeutics, Inc.
+2025-01-15 13:03:13,453 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Beam Therapeutics Inc.
+2025-01-15 13:03:13,717 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Protagonist Therapeutics, Inc.
+2025-01-15 13:03:15,790 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Centessa Pharmaceuticals plc
+2025-01-15 13:03:22,706 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for IDEAYA Biosciences, Inc.
+2025-01-15 13:03:23,776 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Supernus Pharmaceuticals, Inc.
+2025-01-15 13:03:26,682 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Ligand Pharmaceuticals Incorporated
+2025-01-15 13:03:27,253 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Tarsus Pharmaceuticals, Inc.
+2025-01-15 13:03:34,323 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Mirum Pharmaceuticals, Inc.
+2025-01-15 13:03:35,456 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Mesoblast Limited
+2025-01-15 13:03:36,870 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for CG Oncology, Inc.
+2025-01-15 13:03:43,872 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Recursion Pharmaceuticals, Inc.
+2025-01-15 13:03:45,710 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Agios Pharmaceuticals, Inc.
+2025-01-15 13:03:46,680 - MainThread - INFO - Saved intermediate results with 11 entries
+2025-01-15 13:03:52,326 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Geron Corporation
+2025-01-15 13:03:59,413 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Iovance Biotherapeutics, Inc.
+2025-01-15 13:03:59,484 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Harmony Biosciences Holdings, Inc.
+2025-01-15 13:04:04,485 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Soleno Therapeutics, Inc.
+2025-01-15 13:04:05,698 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Disc Medicine, Inc.
+2025-01-15 13:04:13,116 - MainThread - INFO - Saved intermediate results with 7 entries
+2025-01-15 13:04:13,117 - MainThread - INFO - Scraping completed. Processed 99 companies successfully.
+2025-01-15 13:23:53,282 - ThreadPoolExecutor-0_24 - ERROR - Error scraping https://stockanalysis.com/stocks/pcvx/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:23:53,583 - ThreadPoolExecutor-0_21 - ERROR - Error scraping https://stockanalysis.com/stocks/insm/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:23:55,281 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/hln/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:23:55,373 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/vrtx/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:23:55,389 - ThreadPoolExecutor-0_26 - ERROR - Error scraping https://stockanalysis.com/stocks/roiv/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:23:57,000 - ThreadPoolExecutor-0_20 - ERROR - Error scraping https://stockanalysis.com/stocks/srpt/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:23:58,754 - ThreadPoolExecutor-0_22 - ERROR - Error scraping https://stockanalysis.com/stocks/tech/: Message: target frame detached: received Inspector.detached event
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F850D1]
+	(No symbol) [0x00007FF619F83EE6]
+	(No symbol) [0x00007FF619F8371D]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA45EA]
+	(No symbol) [0x00007FF61A02F8CB]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:24:00,256 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/onc/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:24:08,037 - ThreadPoolExecutor-0_14 - ERROR - Failed to save logo for Genmab A/S: [Errno 2] No such file or directory: 'Data/company_logos_stock_analysis\\Genmab_A/S_logo.svg'
+2025-01-15 13:24:10,802 - ThreadPoolExecutor-0_10 - INFO - Logo saved successfully for Royalty Pharma plc
+2025-01-15 13:24:13,882 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Alnylam Pharmaceuticals, Inc.
+2025-01-15 13:24:16,143 - ThreadPoolExecutor-0_27 - INFO - Logo saved successfully for Revolution Medicines, Inc.
+2025-01-15 13:24:17,255 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for BioNTech SE
+2025-01-15 13:24:17,350 - ThreadPoolExecutor-0_16 - INFO - Logo saved successfully for Incyte Corporation
+2025-01-15 13:24:17,914 - ThreadPoolExecutor-0_28 - ERROR - Failed to save logo for Ascendis Pharma A/S: [Errno 2] No such file or directory: 'Data/company_logos_stock_analysis\\Ascendis_Pharma_A/S_logo.svg'
+2025-01-15 13:24:18,446 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Regeneron Pharmaceuticals, Inc.
+2025-01-15 13:24:18,875 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Takeda Pharmaceutical Company Limited
+2025-01-15 13:24:20,912 - ThreadPoolExecutor-0_12 - INFO - Logo saved successfully for Moderna, Inc.
+2025-01-15 13:24:21,602 - ThreadPoolExecutor-0_19 - INFO - Logo saved successfully for BioMarin Pharmaceutical Inc.
+2025-01-15 13:24:21,788 - ThreadPoolExecutor-0_13 - INFO - Logo saved successfully for Neurocrine Biosciences, Inc.
+2025-01-15 13:24:24,895 - ThreadPoolExecutor-0_23 - INFO - Logo saved successfully for Exelixis, Inc.
+2025-01-15 13:24:28,529 - ThreadPoolExecutor-0_18 - INFO - Logo saved successfully for Dr. Reddy's Laboratories Limited
+2025-01-15 13:24:28,969 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for argenx SE
+2025-01-15 13:24:29,034 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Teva Pharmaceutical Industries Limited
+2025-01-15 13:24:29,504 - ThreadPoolExecutor-0_11 - INFO - Logo saved successfully for United Therapeutics Corporation
+2025-01-15 13:24:56,083 - MainThread - INFO - Saved intermediate results with 17 entries
+2025-01-15 13:25:05,553 - ThreadPoolExecutor-0_21 - INFO - Logo saved successfully for Lantheus Holdings, Inc.
+2025-01-15 13:25:05,660 - ThreadPoolExecutor-0_14 - INFO - Logo saved successfully for Corcept Therapeutics Incorporated
+2025-01-15 13:25:08,552 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Alkermes plc
+2025-01-15 13:46:57,867 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/hln/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:46:58,294 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/nbix/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:47:02,566 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/vrtx/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:47:03,720 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/bntx/: Message: target frame detached: received Inspector.detached event
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F850D1]
+	(No symbol) [0x00007FF619F83EE6]
+	(No symbol) [0x00007FF619F8371D]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA45EA]
+	(No symbol) [0x00007FF61A02F467]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:47:04,258 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/tak/: Message: target frame detached: received Inspector.detached event
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F850D1]
+	(No symbol) [0x00007FF619F83EE6]
+	(No symbol) [0x00007FF619F8371D]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA45EA]
+	(No symbol) [0x00007FF61A02F467]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:47:25,234 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/vtrs/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:25,484 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/incy/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:25,941 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/smmt/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:26,944 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/rdy/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:31,675 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/bmrn/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:36,832 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/tech/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:37,247 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/insm/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:37,386 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/exel/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:37,446 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/srpt/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:39,740 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/pcvx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:45,743 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/itci/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:46,123 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/roiv/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:46,310 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/asnd/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:46,311 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/rvmd/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:48,284 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/mdgl/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:55,536 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/jazz/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:55,752 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/legn/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:55,813 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/halo/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:55,939 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/lnth/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:47:57,532 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/elan/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:06,090 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/bbio/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:07,392 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/bpmc/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:07,471 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/cytk/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:07,871 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/nuvl/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:08,204 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/ions/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:15,076 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/cort/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:15,812 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/tlx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:15,996 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/alks/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:17,326 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/krys/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:18,160 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/adma/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:24,867 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/vktx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:26,300 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/tgtx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:26,511 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/alvo/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:28,979 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/rare/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:29,009 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/axsm/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:34,966 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/vrtx/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:34,970 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/onc/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:35,002 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/vrna/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:35,043 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/bhvn/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:35,048 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/hln/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:35,062 - ThreadPoolExecutor-0_8 - ERROR - Error scraping https://stockanalysis.com/stocks/teva/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:35,096 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/bntx/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:35,124 - ThreadPoolExecutor-0_1 - ERROR - Error scraping https://stockanalysis.com/stocks/regn/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:36,849 - ThreadPoolExecutor-0_2 - ERROR - Error scraping https://stockanalysis.com/stocks/zts/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:41,546 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/aclx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:41,559 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/crnx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:42,131 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/srrk/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:43,040 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/pbh/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:43,590 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/rna/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:47,022 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/apls/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:47,789 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/imvt/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:48,165 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/crsp/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:48,212 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/rytm/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:49,936 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/ptct/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:50,733 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/xene/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:51,390 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/mltx/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:48:55,574 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/gmab/: Message: session not created: Chrome failed to start: was killed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FD01C0]
+	(No symbol) [0x00007FF619FCBC39]
+	(No symbol) [0x00007FF61A01A6AC]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:48:56,139 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/swtx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:56,339 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/prgo/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:56,401 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/vcel/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:56,461 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/mrus/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:57,535 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/bhc/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:48:59,835 - ThreadPoolExecutor-0_2 - ERROR - Error scraping https://stockanalysis.com/stocks/incy/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:49:03,338 - ThreadPoolExecutor-0_6 - ERROR - Error scraping https://stockanalysis.com/stocks/alny/: Message: session not created: Chrome failed to start: was killed.
+  (chrome not reachable)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FD01C0]
+	(No symbol) [0x00007FF619FCBC39]
+	(No symbol) [0x00007FF61A01A6AC]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:49:05,809 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/dnli/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:06,284 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/acad/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:06,435 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/zlab/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:06,741 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/janx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:08,041 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/fold/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:13,916 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Summit Therapeutics Inc.
+2025-01-15 13:49:17,089 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/nams/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:18,196 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/cprx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:18,302 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/hcm/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:18,347 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/amrx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:18,367 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/kymr/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:20,475 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for BioMarin Pharmaceutical Inc.
+2025-01-15 13:49:22,962 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Dr. Reddy's Laboratories Limited
+2025-01-15 13:49:26,866 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/vera/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:27,403 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/arwr/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:27,542 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/apge/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:27,557 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/ptgx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:27,711 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/ewtx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:28,427 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/srpt/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 13:49:32,645 - ThreadPoolExecutor-0_8 - ERROR - Error scraping https://stockanalysis.com/stocks/nbix/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 13:49:32,754 - ThreadPoolExecutor-0_1 - ERROR - Error scraping https://stockanalysis.com/stocks/vtrs/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 13:49:32,769 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/rprx/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 13:49:32,850 - ThreadPoolExecutor-0_7 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB402898E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4c9a1911a0d1dd290633c4b922feb36d
+2025-01-15 13:49:33,016 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/mrna/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 13:49:33,033 - ThreadPoolExecutor-0_5 - ERROR - Error scraping https://stockanalysis.com/stocks/argx/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 13:49:33,215 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/tak/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 13:49:36,889 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/beam/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:36,920 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/idya/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:37,352 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/supn/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:37,505 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/cnta/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:37,599 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/cgon/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:37,634 - ThreadPoolExecutor-0_7 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB402899D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4c9a1911a0d1dd290633c4b922feb36d
+2025-01-15 13:49:41,626 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/tars/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:49:41,627 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/lgnd/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:49:42,319 - ThreadPoolExecutor-0_7 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB401619D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4c9a1911a0d1dd290633c4b922feb36d
+2025-01-15 13:49:43,544 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/mirm/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:49:43,926 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/iova/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:49:44,530 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/gern/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:49:45,312 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/slno/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:49:45,776 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/iron/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:49:46,158 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/meso/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:49:46,211 - ThreadPoolExecutor-0_13 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2025-01-15 13:49:46,344 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/rxrx/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:49:48,950 - ThreadPoolExecutor-0_13 - ERROR - Error scraping https://stockanalysis.com/stocks/agio/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:49:50,707 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/asnd/: Message: tab crashed
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F95739]
+	(No symbol) [0x00007FF619F84DC9]
+	(No symbol) [0x00007FF619F83EE6]
+	(No symbol) [0x00007FF619F8371D]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F889DE]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F83292]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F75B1B]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F7F85B]
+	(No symbol) [0x00007FF619F7F368]
+	(No symbol) [0x00007FF619F97EC9]
+	(No symbol) [0x00007FF619F6EAA5]
+	(No symbol) [0x00007FF619F6E47B]
+	(No symbol) [0x00007FF61A01A812]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:49:50,892 - ThreadPoolExecutor-0_1 - ERROR - Error scraping https://stockanalysis.com/stocks/exel/: Message: tab crashed
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F95739]
+	(No symbol) [0x00007FF619F84DC9]
+	(No symbol) [0x00007FF619F83EE6]
+	(No symbol) [0x00007FF619F8371D]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F88957]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F83292]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F75B1B]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F7F85B]
+	(No symbol) [0x00007FF619F7F368]
+	(No symbol) [0x00007FF619F97EC9]
+	(No symbol) [0x00007FF619F6EAA5]
+	(No symbol) [0x00007FF619F6E47B]
+	(No symbol) [0x00007FF61A01A812]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:49:52,581 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/roiv/: Message: session not created: Chrome failed to start: crashed.
+  (chrome not reachable)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FD01C0]
+	(No symbol) [0x00007FF619FCBC39]
+	(No symbol) [0x00007FF61A01A6AC]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:49:54,554 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/hrmy/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:49:55,821 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/uthr/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 13:50:00,997 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/legn/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:50:01,568 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/jazz/: Message: session not created: Chrome failed to start: was killed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FD01C0]
+	(No symbol) [0x00007FF619FCBC39]
+	(No symbol) [0x00007FF61A01A6AC]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:50:06,049 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/bpmc/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:06,378 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/elan/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:06,577 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/bbio/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:06,734 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/nuvl/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:06,909 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/ions/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:07,010 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/cytk/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:07,244 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/tlx/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:07,481 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/alks/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:07,491 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/krys/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:07,672 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/adma/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:07,828 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/vktx/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:08,193 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/tgtx/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:08,381 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/alvo/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:09,214 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/rare/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:14,028 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/axsm/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:14,470 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/srrk/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:14,714 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/crnx/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:14,843 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/aclx/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:15,076 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/bhvn/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:15,326 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/vrna/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:16,058 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/pbh/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:16,303 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/rna/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:16,428 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/rytm/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:17,309 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/imvt/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:17,721 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/cort/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:21,788 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/ptct/: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	(No symbol) [0x00007FF61A4680D5]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FD01C0]
+	(No symbol) [0x00007FF619FCBC39]
+	(No symbol) [0x00007FF61A01A6AC]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	(No symbol) [0x00007FF61A4C6A2D]
+	(No symbol) [0x00007FF61A4DC32D]
+	(No symbol) [0x00007FF61A4D0043]
+	(No symbol) [0x00007FF61A25C78B]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	(No symbol) [0x00007FFD1F8D7374]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:50:26,767 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/crsp/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:34,744 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/prgo/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-15 13:50:39,257 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/swtx/: Message: session not created: Failed to create Chrome process.
+Stacktrace:
+Error initializing symbols (3221225495).  Dumping unresolved backtrace:
+	00007FF61A4680D5
+	00007FF61A0FBFD0
+	00007FF619F9590A
+	00007FF619FCF6F1
+	00007FF619FCBC39
+	00007FF61A01A6AC
+	00007FF61A019C90
+	00007FF61A00F113
+	00007FF619FDA918
+	00007FF619FDBA81
+	00007FF61A4C6A2D
+	00007FF61A4DC32D
+	00007FF61A4D0043
+	00007FF61A25C78B
+	00007FF61A10757F
+	00007FF61A102FC4
+	00007FF61A10315D
+	00007FF61A0F2979
+	00007FFD1F8D7374
+	00007FFD2077CC91
+
+2025-01-15 13:50:50,423 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/mrus/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 13:50:52,069 - ThreadPoolExecutor-0_5 - ERROR - Error scraping https://stockanalysis.com/stocks/rvmd/: Message: disconnected: Unable to receive message from renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F88957]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F83292]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F75B1B]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F7F85B]
+	(No symbol) [0x00007FF619F7F368]
+	(No symbol) [0x00007FF619F97EC9]
+	(No symbol) [0x00007FF619F6EAA5]
+	(No symbol) [0x00007FF619F6E47B]
+	(No symbol) [0x00007FF61A01A812]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:50:53,242 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/apls/: Message: session not created: Chrome failed to start: was killed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FD01C0]
+	(No symbol) [0x00007FF619FCBC39]
+	(No symbol) [0x00007FF61A01A6AC]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:50:57,669 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/mdgl/: Message: session not created: DevToolsActivePort file doesn't exist
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FD5E05]
+	(No symbol) [0x00007FF619FD0C10]
+	(No symbol) [0x00007FF619FCBC39]
+	(No symbol) [0x00007FF61A01A6AC]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:01,020 - ThreadPoolExecutor-0_1 - ERROR - Error scraping https://stockanalysis.com/stocks/halo/: Message: session not created: DevToolsActivePort file doesn't exist
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FD5E05]
+	(No symbol) [0x00007FF619FD0C10]
+	(No symbol) [0x00007FF619FCBC39]
+	(No symbol) [0x00007FF61A01A6AC]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:06,518 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Vericel Corporation
+2025-01-15 13:51:12,959 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Xenon Pharmaceuticals Inc.
+2025-01-15 13:51:14,134 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for MoonLake Immunotherapeutics
+2025-01-15 13:51:14,768 - ThreadPoolExecutor-0_1 - ERROR - Error scraping https://stockanalysis.com/stocks/regn/: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F822EC]
+	(No symbol) [0x00007FF619F821B0]
+	(No symbol) [0x00007FF619F982B1]
+	(No symbol) [0x00007FF61A02EEA2]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:15,086 - ThreadPoolExecutor-0_14 - ERROR - Error scraping https://stockanalysis.com/stocks/gmab/: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F822EC]
+	(No symbol) [0x00007FF619F821B0]
+	(No symbol) [0x00007FF619F982B1]
+	(No symbol) [0x00007FF61A02EEA2]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:16,508 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/lnth/: Message: disconnected: Unable to receive message from renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F889DE]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F83292]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F75B1B]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F7F85B]
+	(No symbol) [0x00007FF619F7F368]
+	(No symbol) [0x00007FF619F97EC9]
+	(No symbol) [0x00007FF619F6EAA5]
+	(No symbol) [0x00007FF619F6E47B]
+	(No symbol) [0x00007FF61A01A812]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:18,944 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Bausch Health Companies Inc.
+2025-01-15 13:51:19,240 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for ACADIA Pharmaceuticals Inc.
+2025-01-15 13:51:19,754 - ThreadPoolExecutor-0_6 - ERROR - Error scraping https://stockanalysis.com/stocks/insm/: Message: disconnected: Unable to receive message from renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F889DE]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F83292]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F75B1B]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F7F85B]
+	(No symbol) [0x00007FF619F7F368]
+	(No symbol) [0x00007FF619F97EC9]
+	(No symbol) [0x00007FF619F6EAA5]
+	(No symbol) [0x00007FF619F6E47B]
+	(No symbol) [0x00007FF61A01A812]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:20,607 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/dnli/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:20,627 - ThreadPoolExecutor-0_5 - ERROR - Error scraping https://stockanalysis.com/stocks/xene/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 13:51:23,410 - ThreadPoolExecutor-0_11 - ERROR - Error scraping https://stockanalysis.com/stocks/uthr/: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F822EC]
+	(No symbol) [0x00007FF619F821B0]
+	(No symbol) [0x00007FF619F982B1]
+	(No symbol) [0x00007FF61A02EEA2]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:25,050 - ThreadPoolExecutor-0_5 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB4028AC60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ca86f48564cddfac84799f4457e4942e
+2025-01-15 13:51:25,537 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/zlab/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:27,829 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/janx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:28,848 - ThreadPoolExecutor-0_6 - ERROR - Error scraping https://stockanalysis.com/stocks/fold/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:29,268 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/nams/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:29,865 - ThreadPoolExecutor-0_5 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB40288590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ca86f48564cddfac84799f4457e4942e
+2025-01-15 13:51:31,104 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/cprx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:31,721 - ThreadPoolExecutor-0_1 - ERROR - Error scraping https://stockanalysis.com/stocks/hcm/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:32,649 - ThreadPoolExecutor-0_10 - ERROR - Error scraping https://stockanalysis.com/stocks/rprx/: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F822EC]
+	(No symbol) [0x00007FF619F821B0]
+	(No symbol) [0x00007FF619F982B1]
+	(No symbol) [0x00007FF61A02EEA2]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:33,377 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/kymr/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:34,618 - ThreadPoolExecutor-0_5 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB4017CAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ca86f48564cddfac84799f4457e4942e
+2025-01-15 13:51:36,481 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/amrx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:36,958 - ThreadPoolExecutor-0_6 - ERROR - Error scraping https://stockanalysis.com/stocks/vera/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:37,389 - ThreadPoolExecutor-0_8 - ERROR - Error scraping https://stockanalysis.com/stocks/teva/: Message: timeout: Timed out receiving message from renderer: 296.663
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA48C3]
+	(No symbol) [0x00007FF61A02F8CB]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:37,792 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/apge/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:39,704 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/arwr/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:40,383 - ThreadPoolExecutor-0_1 - ERROR - Error scraping https://stockanalysis.com/stocks/ewtx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:40,721 - ThreadPoolExecutor-0_12 - ERROR - Error scraping https://stockanalysis.com/stocks/mrna/: Message: timeout: Timed out receiving message from renderer: 295.820
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA48C3]
+	(No symbol) [0x00007FF61A02F8CB]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:41,856 - ThreadPoolExecutor-0_5 - ERROR - Error scraping https://stockanalysis.com/stocks/argx/: Message: timeout: Timed out receiving message from renderer: 296.089
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA48C3]
+	(No symbol) [0x00007FF61A02F8CB]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:41,858 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/onc/: Message: timeout: Timed out receiving message from renderer: 295.174
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA48C3]
+	(No symbol) [0x00007FF61A02F8CB]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:51:42,638 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/ptgx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:45,733 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/beam/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:45,983 - ThreadPoolExecutor-0_6 - ERROR - Error scraping https://stockanalysis.com/stocks/idya/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:46,454 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/supn/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:47,688 - ThreadPoolExecutor-0_5 - ERROR - Error scraping https://stockanalysis.com/stocks/cnta/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:47,809 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/cgon/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:48,085 - ThreadPoolExecutor-0_1 - ERROR - Error scraping https://stockanalysis.com/stocks/tars/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:51,653 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/lgnd/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:56,216 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/meso/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:56,216 - ThreadPoolExecutor-0_6 - ERROR - Error scraping https://stockanalysis.com/stocks/mirm/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:56,432 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/rxrx/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:57,780 - ThreadPoolExecutor-0_1 - ERROR - Error scraping https://stockanalysis.com/stocks/hrmy/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:57,795 - ThreadPoolExecutor-0_5 - ERROR - Error scraping https://stockanalysis.com/stocks/iova/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:51:57,826 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/agio/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:52:00,218 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/gern/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:52:04,447 - ThreadPoolExecutor-0_6 - ERROR - Error scraping https://stockanalysis.com/stocks/iron/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:52:04,477 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/slno/: Message: Service C:\Users\pulkit.kushwaha\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe unexpectedly exited. Status code was: 3221225794
+
+2025-01-15 13:55:34,265 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Haleon plc
+2025-01-15 13:55:34,272 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Teva Pharmaceutical Industries Limited
+2025-01-15 13:55:34,625 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for BeiGene, Ltd.
+2025-01-15 13:55:34,948 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Zoetis Inc.
+2025-01-15 13:55:34,985 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Takeda Pharmaceutical Company Limited
+2025-01-15 13:55:35,161 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for argenx SE
+2025-01-15 13:55:35,322 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Regeneron Pharmaceuticals, Inc.
+2025-01-15 13:55:35,754 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Vertex Pharmaceuticals Incorporated
+2025-01-15 13:55:35,768 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Alnylam Pharmaceuticals, Inc.
+2025-01-15 13:55:35,846 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for BioNTech SE
+2025-01-15 13:55:47,589 - MainThread - INFO - Saved intermediate results with 10 entries
+2025-01-15 13:55:57,107 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Royalty Pharma plc
+2025-01-15 13:56:01,110 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for United Therapeutics Corporation
+2025-01-15 13:56:01,563 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Moderna, Inc.
+2025-01-15 13:56:05,636 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Neurocrine Biosciences, Inc.
+2025-01-15 13:56:06,061 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Incyte Corporation
+2025-01-15 13:56:08,441 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Viatris Inc.
+2025-01-15 13:56:08,463 - ThreadPoolExecutor-0_3 - ERROR - Failed to save logo for Genmab A/S: [Errno 2] No such file or directory: 'Data/company_logos_stock_analysis\\Genmab_A/S_logo.svg'
+2025-01-15 13:56:08,475 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Summit Therapeutics Inc.
+2025-01-15 13:56:10,264 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Dr. Reddy's Laboratories Limited
+2025-01-15 13:56:11,120 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for BioMarin Pharmaceutical Inc.
+2025-01-15 13:56:18,898 - MainThread - INFO - Saved intermediate results with 20 entries
+2025-01-15 13:56:22,430 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Sarepta Therapeutics, Inc.
+2025-01-15 13:56:26,209 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Insmed Incorporated
+2025-01-15 13:56:27,290 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Bio-Techne Corporation
+2025-01-15 13:56:29,850 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Exelixis, Inc.
+2025-01-15 13:56:30,181 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Vaxcyte, Inc.
+2025-01-15 13:56:36,907 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Intra-Cellular Therapies, Inc.
+2025-01-15 13:56:38,096 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Revolution Medicines, Inc.
+2025-01-15 13:56:38,146 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Roivant Sciences Ltd.
+2025-01-15 13:56:38,445 - ThreadPoolExecutor-0_8 - ERROR - Failed to save logo for Ascendis Pharma A/S: [Errno 2] No such file or directory: 'Data/company_logos_stock_analysis\\Ascendis_Pharma_A/S_logo.svg'
+2025-01-15 13:56:38,623 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Madrigal Pharmaceuticals, Inc.
+2025-01-15 13:56:51,708 - MainThread - INFO - Saved intermediate results with 30 entries
+2025-01-15 13:56:53,281 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Lantheus Holdings, Inc.
+2025-01-15 13:56:53,323 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Halozyme Therapeutics, Inc.
+2025-01-15 13:56:53,332 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Jazz Pharmaceuticals plc
+2025-01-15 13:56:55,042 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Legend Biotech Corporation
+2025-01-15 13:56:55,439 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Elanco Animal Health Incorporated
+2025-01-15 13:57:04,388 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Blueprint Medicines Corporation
+2025-01-15 13:57:04,597 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Nuvalent, Inc.
+2025-01-15 13:57:04,778 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for BridgeBio Pharma, Inc.
+2025-01-15 13:57:04,965 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Cytokinetics, Incorporated
+2025-01-15 13:57:08,166 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Ionis Pharmaceuticals, Inc.
+2025-01-15 13:57:17,502 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Corcept Therapeutics Incorporated
+2025-01-15 13:57:19,144 - MainThread - INFO - Saved intermediate results with 41 entries
+2025-01-15 13:57:19,709 - ThreadPoolExecutor-0_2 - ERROR - Error scraping https://stockanalysis.com/stocks/tlx/: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF619FDC6CC]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF619FDC596]
+	(No symbol) [0x00007FF61A00F580]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 13:57:21,727 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for ADMA Biologics, Inc.
+2025-01-15 13:57:21,727 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Krystal Biotech, Inc.
+2025-01-15 13:57:22,109 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Alkermes plc
+2025-01-15 13:57:27,877 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Viking Therapeutics, Inc.
+2025-01-15 13:57:29,765 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Ultragenyx Pharmaceutical Inc.
+2025-01-15 13:57:30,787 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Alvotech
+2025-01-15 13:57:31,365 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for TG Therapeutics, Inc.
+2025-01-15 13:57:33,813 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Axsome Therapeutics, Inc.
+2025-01-15 13:57:43,073 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Scholar Rock Holding Corporation
+2025-01-15 13:57:43,984 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Crinetics Pharmaceuticals, Inc.
+2025-01-15 13:57:46,095 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Arcellx, Inc.
+2025-01-15 13:57:46,434 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Verona Pharma plc
+2025-01-15 13:57:49,596 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Prestige Consumer Healthcare Inc.
+2025-01-15 13:57:54,038 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Rhythm Pharmaceuticals, Inc.
+2025-01-15 13:57:54,517 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Avidity Biosciences, Inc.
+2025-01-15 13:57:57,195 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Immunovant, Inc.
+2025-01-15 13:57:57,578 - MainThread - INFO - Saved intermediate results with 56 entries
+2025-01-15 13:57:59,446 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Biohaven Ltd.
+2025-01-15 13:58:03,032 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Apellis Pharmaceuticals, Inc.
+2025-01-15 13:58:08,501 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for PTC Therapeutics, Inc.
+2025-01-15 13:58:12,670 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Perrigo Company plc
+2025-01-15 13:58:12,920 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for CRISPR Therapeutics AG
+2025-01-15 13:58:13,217 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for SpringWorks Therapeutics, Inc.
+2025-01-15 13:58:14,249 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Merus N.V.
+2025-01-15 13:58:22,052 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Xenon Pharmaceuticals Inc.
+2025-01-15 13:58:22,056 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Vericel Corporation
+2025-01-15 13:58:22,118 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for MoonLake Immunotherapeutics
+2025-01-15 13:58:24,020 - MainThread - INFO - Saved intermediate results with 67 entries
+2025-01-15 13:58:27,732 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Bausch Health Companies Inc.
+2025-01-15 13:58:29,616 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for ACADIA Pharmaceuticals Inc.
+2025-01-15 13:58:35,263 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Zai Lab Limited
+2025-01-15 13:58:35,451 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Denali Therapeutics Inc.
+2025-01-15 13:58:37,082 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Janux Therapeutics, Inc.
+2025-01-15 13:58:38,255 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Amicus Therapeutics, Inc.
+2025-01-15 13:58:38,604 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for NewAmsterdam Pharma Company N.V.
+2025-01-15 13:58:46,180 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Kymera Therapeutics, Inc.
+2025-01-15 13:58:46,978 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for HUTCHMED (China) Limited
+2025-01-15 13:58:47,027 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Catalyst Pharmaceuticals, Inc.
+2025-01-15 13:58:48,038 - MainThread - INFO - Saved intermediate results with 75 entries
+2025-01-15 13:59:00,955 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Amneal Pharmaceuticals, Inc.
+2025-01-15 13:59:01,196 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Arrowhead Pharmaceuticals, Inc.
+2025-01-15 13:59:01,238 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Protagonist Therapeutics, Inc.
+2025-01-15 13:59:02,804 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Vera Therapeutics, Inc.
+2025-01-15 13:59:02,985 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Edgewise Therapeutics, Inc.
+2025-01-15 13:59:03,060 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Apogee Therapeutics, Inc.
+2025-01-15 13:59:11,220 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Supernus Pharmaceuticals, Inc.
+2025-01-15 13:59:11,581 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for IDEAYA Biosciences, Inc.
+2025-01-15 13:59:11,869 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Centessa Pharmaceuticals plc
+2025-01-15 13:59:12,986 - MainThread - INFO - Saved intermediate results with 85 entries
+2025-01-15 13:59:17,863 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Beam Therapeutics Inc.
+2025-01-15 13:59:22,510 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for CG Oncology, Inc.
+2025-01-15 13:59:24,479 - ThreadPoolExecutor-0_5 - INFO - Logo saved successfully for Tarsus Pharmaceuticals, Inc.
+2025-01-15 13:59:24,786 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Ligand Pharmaceuticals Incorporated
+2025-01-15 13:59:26,625 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Recursion Pharmaceuticals, Inc.
+2025-01-15 13:59:31,007 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Agios Pharmaceuticals, Inc.
+2025-01-15 13:59:34,380 - MainThread - INFO - Saved intermediate results with 92 entries
+2025-01-15 13:59:36,122 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Harmony Biosciences Holdings, Inc.
+2025-01-15 13:59:37,778 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Mesoblast Limited
+2025-01-15 13:59:37,789 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Mirum Pharmaceuticals, Inc.
+2025-01-15 13:59:37,880 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Iovance Biotherapeutics, Inc.
+2025-01-15 13:59:43,062 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Geron Corporation
+2025-01-15 13:59:46,617 - ThreadPoolExecutor-0_2 - INFO - Logo saved successfully for Disc Medicine, Inc.
+2025-01-15 13:59:46,711 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Soleno Therapeutics, Inc.
+2025-01-15 13:59:55,748 - MainThread - INFO - Saved intermediate results with 99 entries
+2025-01-15 13:59:55,748 - MainThread - INFO - Scraping completed. Processed 99 companies successfully.
+2025-01-15 15:07:15,394 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for BeiGene, Ltd.
+2025-01-15 15:07:16,036 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Vertex Pharmaceuticals Incorporated
+2025-01-15 15:07:16,492 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/tak/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:07:18,337 - ThreadPoolExecutor-0_6 - ERROR - Error scraping https://stockanalysis.com/stocks/alny/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:07:18,831 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for BioNTech SE
+2025-01-15 15:07:18,836 - ThreadPoolExecutor-0_4 - INFO - Logo saved successfully for Haleon plc
+2025-01-15 15:07:35,798 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Moderna, Inc.
+2025-01-15 15:07:37,728 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Royalty Pharma plc
+2025-01-15 15:07:37,778 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for United Therapeutics Corporation
+2025-01-15 15:07:38,904 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Neurocrine Biosciences, Inc.
+2025-01-15 15:07:41,537 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/vtrs/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:07:41,773 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/gmab/: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div[2]/div[1]"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF61A0327D7]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:07:53,624 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Incyte Corporation
+2025-01-15 15:07:56,303 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Summit Therapeutics Inc.
+2025-01-15 15:07:57,425 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for BioMarin Pharmaceutical Inc.
+2025-01-15 15:07:57,916 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Dr. Reddy's Laboratories Limited
+2025-01-15 15:07:58,559 - ThreadPoolExecutor-0_0 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/c2454a717755f9fe81f6b0f34e60db44/element/f.A62C0336298F5DFA9D58C19941D6BDAE.d.FCD74019C9E168C09D4277A46299311D.e.44/text
+2025-01-15 15:08:02,650 - ThreadPoolExecutor-0_0 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E0702407A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2454a717755f9fe81f6b0f34e60db44/element/f.A62C0336298F5DFA9D58C19941D6BDAE.d.FCD74019C9E168C09D4277A46299311D.e.44/text
+2025-01-15 15:08:05,080 - MainThread - INFO - Saved intermediate results with 11 entries
+2025-01-15 15:08:06,732 - ThreadPoolExecutor-0_0 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E070226000>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2454a717755f9fe81f6b0f34e60db44/element/f.A62C0336298F5DFA9D58C19941D6BDAE.d.FCD74019C9E168C09D4277A46299311D.e.44/text
+2025-01-15 15:08:10,893 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/incy/: HTTPConnectionPool(host='localhost', port=51945): Max retries exceeded with url: /session/c2454a717755f9fe81f6b0f34e60db44/element/f.A62C0336298F5DFA9D58C19941D6BDAE.d.FCD74019C9E168C09D4277A46299311D.e.44/text (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E070101B80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-15 15:08:11,809 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Bio-Techne Corporation
+2025-01-15 15:08:14,489 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Exelixis, Inc.
+2025-01-15 15:08:15,364 - ThreadPoolExecutor-0_0 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E0701F5AC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2454a717755f9fe81f6b0f34e60db44
+2025-01-15 15:08:16,251 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Vaxcyte, Inc.
+2025-01-15 15:08:19,445 - ThreadPoolExecutor-0_0 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E0702404D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2454a717755f9fe81f6b0f34e60db44
+2025-01-15 15:08:23,547 - ThreadPoolExecutor-0_0 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E070226B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2454a717755f9fe81f6b0f34e60db44
+2025-01-15 15:08:27,689 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Intra-Cellular Therapies, Inc.
+2025-01-15 15:08:31,409 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Roivant Sciences Ltd.
+2025-01-15 15:08:33,094 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Revolution Medicines, Inc.
+2025-01-15 15:08:40,981 - ThreadPoolExecutor-0_0 - ERROR - Failed to save logo for Ascendis Pharma A/S: [Errno 2] No such file or directory: 'Data/company_logos_stock_analysis\\Ascendis_Pharma_A/S_logo.svg'
+2025-01-15 15:08:44,356 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Madrigal Pharmaceuticals, Inc.
+2025-01-15 15:08:47,514 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Jazz Pharmaceuticals plc
+2025-01-15 15:08:51,086 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Halozyme Therapeutics, Inc.
+2025-01-15 15:08:54,650 - MainThread - INFO - Saved intermediate results with 21 entries
+2025-01-15 15:08:55,901 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/insm/: Message: session not created: DevToolsActivePort file doesn't exist
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FD5E05]
+	(No symbol) [0x00007FF619FD0C10]
+	(No symbol) [0x00007FF619FCBC39]
+	(No symbol) [0x00007FF61A01A6AC]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:08:57,657 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Lantheus Holdings, Inc.
+2025-01-15 15:09:01,099 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Legend Biotech Corporation
+2025-01-15 15:09:05,828 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Elanco Animal Health Incorporated
+2025-01-15 15:09:12,899 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Blueprint Medicines Corporation
+2025-01-15 15:09:13,506 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Cytokinetics, Incorporated
+2025-01-15 15:09:19,892 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for BridgeBio Pharma, Inc.
+2025-01-15 15:09:24,929 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Nuvalent, Inc.
+2025-01-15 15:09:25,745 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Ionis Pharmaceuticals, Inc.
+2025-01-15 15:09:30,373 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Corcept Therapeutics Incorporated
+2025-01-15 15:09:32,198 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/tlx/: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619FE926E]
+	(No symbol) [0x00007FF619FE955C]
+	(No symbol) [0x00007FF619FDC6CC]
+	(No symbol) [0x00007FF61A00F3AF]
+	(No symbol) [0x00007FF619FDC596]
+	(No symbol) [0x00007FF61A00F580]
+	(No symbol) [0x00007FF61A02F584]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:09:36,988 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Alkermes plc
+2025-01-15 15:09:37,704 - MainThread - INFO - Saved intermediate results with 30 entries
+2025-01-15 15:09:41,250 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Krystal Biotech, Inc.
+2025-01-15 15:09:42,856 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for ADMA Biologics, Inc.
+2025-01-15 15:09:47,264 - ThreadPoolExecutor-0_9 - INFO - Logo saved successfully for Viking Therapeutics, Inc.
+2025-01-15 15:09:48,246 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for TG Therapeutics, Inc.
+2025-01-15 15:09:54,232 - ThreadPoolExecutor-0_0 - INFO - Logo saved successfully for Alvotech
+2025-01-15 15:09:59,763 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Axsome Therapeutics, Inc.
+2025-01-15 15:09:59,805 - ThreadPoolExecutor-0_6 - INFO - Logo saved successfully for Ultragenyx Pharmaceutical Inc.
+2025-01-15 15:10:01,096 - ThreadPoolExecutor-0_6 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/a5795a880badd22618af05b019a8df45/element/f.FDDC09729662DC577A2E4F2D508241CE.d.978A0CF9F837568837F5791706C9C106.e.56/text
+2025-01-15 15:10:05,293 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/axsm/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-15 15:10:05,499 - ThreadPoolExecutor-0_6 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E07025C9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a5795a880badd22618af05b019a8df45/element/f.FDDC09729662DC577A2E4F2D508241CE.d.978A0CF9F837568837F5791706C9C106.e.56/text
+2025-01-15 15:10:09,339 - ThreadPoolExecutor-0_3 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E07025C170>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/186eba5227e0cb6b605b0d254ba1d9b2
+2025-01-15 15:10:09,576 - ThreadPoolExecutor-0_6 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E07025C7D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a5795a880badd22618af05b019a8df45/element/f.FDDC09729662DC577A2E4F2D508241CE.d.978A0CF9F837568837F5791706C9C106.e.56/text
+2025-01-15 15:10:13,422 - ThreadPoolExecutor-0_3 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E07025D640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/186eba5227e0cb6b605b0d254ba1d9b2
+2025-01-15 15:10:13,654 - ThreadPoolExecutor-0_6 - ERROR - Error scraping https://stockanalysis.com/stocks/rare/: HTTPConnectionPool(host='localhost', port=52778): Max retries exceeded with url: /session/a5795a880badd22618af05b019a8df45/element/f.FDDC09729662DC577A2E4F2D508241CE.d.978A0CF9F837568837F5791706C9C106.e.56/text (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E07025D790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-15 15:10:17,508 - ThreadPoolExecutor-0_3 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E07025D940>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/186eba5227e0cb6b605b0d254ba1d9b2
+2025-01-15 15:10:17,722 - ThreadPoolExecutor-0_6 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E07025DAC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a5795a880badd22618af05b019a8df45
+2025-01-15 15:10:21,818 - ThreadPoolExecutor-0_6 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E070224200>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a5795a880badd22618af05b019a8df45
+2025-01-15 15:10:25,886 - ThreadPoolExecutor-0_6 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E0702433E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a5795a880badd22618af05b019a8df45
+2025-01-15 15:11:00,896 - ThreadPoolExecutor-0_7 - ERROR - Error scraping https://stockanalysis.com/stocks/crnx/: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F95739]
+	(No symbol) [0x00007FF619F84DC9]
+	(No symbol) [0x00007FF619F83EE6]
+	(No symbol) [0x00007FF619F8371D]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA45EA]
+	(No symbol) [0x00007FF61A02F467]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:11:15,677 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Prestige Consumer Healthcare Inc.
+2025-01-15 15:11:29,813 - ThreadPoolExecutor-0_3 - ERROR - Error scraping https://stockanalysis.com/stocks/bhvn/: Message: session not created
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F95739]
+	(No symbol) [0x00007FF619F8711D]
+	(No symbol) [0x00007FF619FD6472]
+	(No symbol) [0x00007FF619FD09E3]
+	(No symbol) [0x00007FF619FCBC39]
+	(No symbol) [0x00007FF61A01A6AC]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:11:31,061 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Avidity Biosciences, Inc.
+2025-01-15 15:11:42,308 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Rhythm Pharmaceuticals, Inc.
+2025-01-15 15:11:46,633 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Immunovant, Inc.
+2025-01-15 15:11:53,595 - MainThread - INFO - Saved intermediate results with 40 entries
+2025-01-15 15:11:57,394 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Apellis Pharmaceuticals, Inc.
+2025-01-15 15:12:03,553 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for PTC Therapeutics, Inc.
+2025-01-15 15:12:06,461 - ThreadPoolExecutor-0_1 - ERROR - Error scraping https://stockanalysis.com/stocks/regn/: Message: timeout: Timed out receiving message from renderer: 298.782
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA48C3]
+	(No symbol) [0x00007FF61A02F8CB]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:12:14,229 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for CRISPR Therapeutics AG
+2025-01-15 15:12:17,005 - ThreadPoolExecutor-0_8 - ERROR - Error scraping https://stockanalysis.com/stocks/teva/: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA48C3]
+	(No symbol) [0x00007FF61A02F467]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:12:19,013 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Perrigo Company plc
+2025-01-15 15:12:23,613 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for SpringWorks Therapeutics, Inc.
+2025-01-15 15:12:30,055 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Merus N.V.
+2025-01-15 15:12:34,139 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Vericel Corporation
+2025-01-15 15:12:36,638 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Xenon Pharmaceuticals Inc.
+2025-01-15 15:12:39,986 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for MoonLake Immunotherapeutics
+2025-01-15 15:12:46,477 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Bausch Health Companies Inc.
+2025-01-15 15:12:50,368 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for ACADIA Pharmaceuticals Inc.
+2025-01-15 15:12:52,968 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Denali Therapeutics Inc.
+2025-01-15 15:12:54,013 - MainThread - INFO - Saved intermediate results with 52 entries
+2025-01-15 15:12:56,522 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Zai Lab Limited
+2025-01-15 15:13:03,130 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Janux Therapeutics, Inc.
+2025-01-15 15:13:06,905 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Amicus Therapeutics, Inc.
+2025-01-15 15:13:09,941 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for NewAmsterdam Pharma Company N.V.
+2025-01-15 15:13:13,140 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Catalyst Pharmaceuticals, Inc.
+2025-01-15 15:13:21,038 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for HUTCHMED (China) Limited
+2025-01-15 15:13:25,094 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Kymera Therapeutics, Inc.
+2025-01-15 15:13:27,443 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Amneal Pharmaceuticals, Inc.
+2025-01-15 15:13:30,852 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Vera Therapeutics, Inc.
+2025-01-15 15:13:34,357 - MainThread - INFO - Saved intermediate results with 61 entries
+2025-01-15 15:13:37,266 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Apogee Therapeutics, Inc.
+2025-01-15 15:13:41,146 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Arrowhead Pharmaceuticals, Inc.
+2025-01-15 15:13:43,488 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Edgewise Therapeutics, Inc.
+2025-01-15 15:13:47,204 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Protagonist Therapeutics, Inc.
+2025-01-15 15:13:53,484 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Beam Therapeutics Inc.
+2025-01-15 15:13:56,105 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for IDEAYA Biosciences, Inc.
+2025-01-15 15:13:58,933 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Supernus Pharmaceuticals, Inc.
+2025-01-15 15:14:03,894 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Centessa Pharmaceuticals plc
+2025-01-15 15:14:10,402 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for CG Oncology, Inc.
+2025-01-15 15:14:13,164 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Tarsus Pharmaceuticals, Inc.
+2025-01-15 15:14:16,533 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Ligand Pharmaceuticals Incorporated
+2025-01-15 15:14:18,085 - MainThread - INFO - Saved intermediate results with 72 entries
+2025-01-15 15:14:20,299 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Mesoblast Limited
+2025-01-15 15:14:26,540 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Mirum Pharmaceuticals, Inc.
+2025-01-15 15:14:29,970 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Recursion Pharmaceuticals, Inc.
+2025-01-15 15:14:32,858 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Agios Pharmaceuticals, Inc.
+2025-01-15 15:14:35,887 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Iovance Biotherapeutics, Inc.
+2025-01-15 15:14:43,801 - ThreadPoolExecutor-0_3 - INFO - Logo saved successfully for Harmony Biosciences Holdings, Inc.
+2025-01-15 15:14:46,322 - ThreadPoolExecutor-0_8 - INFO - Logo saved successfully for Geron Corporation
+2025-01-15 15:14:49,594 - ThreadPoolExecutor-0_7 - INFO - Logo saved successfully for Soleno Therapeutics, Inc.
+2025-01-15 15:14:52,364 - ThreadPoolExecutor-0_1 - INFO - Logo saved successfully for Disc Medicine, Inc.
+2025-01-15 15:14:56,567 - MainThread - INFO - Saved intermediate results with 81 entries
+2025-01-15 15:14:58,684 - ThreadPoolExecutor-0_9 - ERROR - Error scraping https://stockanalysis.com/stocks/srrk/: Message: timeout: Timed out receiving message from renderer: 299.461
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA48C3]
+	(No symbol) [0x00007FF61A02F8CB]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:17:58,635 - ThreadPoolExecutor-0_4 - ERROR - Error scraping https://stockanalysis.com/stocks/srpt/: Message: timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F88957]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F83292]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F75B1B]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F7F85B]
+	(No symbol) [0x00007FF619F7F368]
+	(No symbol) [0x00007FF619F97EC9]
+	(No symbol) [0x00007FF619F6EAA5]
+	(No symbol) [0x00007FF619F6E47B]
+	(No symbol) [0x00007FF61A01A812]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:20:09,162 - ThreadPoolExecutor-0_0 - ERROR - Error scraping https://stockanalysis.com/stocks/aclx/: Message: timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F889DE]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F83292]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F75B1B]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F7F85B]
+	(No symbol) [0x00007FF619F7F368]
+	(No symbol) [0x00007FF619F97EC9]
+	(No symbol) [0x00007FF619F6EAA5]
+	(No symbol) [0x00007FF619F6E47B]
+	(No symbol) [0x00007FF61A01A812]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:20:44,953 - ThreadPoolExecutor-0_6 - ERROR - Error scraping https://stockanalysis.com/stocks/vrna/: Message: timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F889DE]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F83292]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81B1C]
+	(No symbol) [0x00007FF619F80286]
+	(No symbol) [0x00007FF619F75B1B]
+	(No symbol) [0x00007FF619F7FFBE]
+	(No symbol) [0x00007FF619F7F85B]
+	(No symbol) [0x00007FF619F7F368]
+	(No symbol) [0x00007FF619F97EC9]
+	(No symbol) [0x00007FF619F6EAA5]
+	(No symbol) [0x00007FF619F6E47B]
+	(No symbol) [0x00007FF61A01A812]
+	(No symbol) [0x00007FF61A019C90]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:22:06,448 - ThreadPoolExecutor-0_5 - ERROR - Error scraping https://stockanalysis.com/stocks/argx/: Message: timeout: Timed out receiving message from renderer: 297.439
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA45EA]
+	(No symbol) [0x00007FF61A02F8CB]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:22:15,688 - ThreadPoolExecutor-0_2 - ERROR - Error scraping https://stockanalysis.com/stocks/zts/: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61A4680D5+2992373]
+	(No symbol) [0x00007FF61A0FBFD0]
+	(No symbol) [0x00007FF619F9590A]
+	(No symbol) [0x00007FF619F83972]
+	(No symbol) [0x00007FF619F8363A]
+	(No symbol) [0x00007FF619F81251]
+	(No symbol) [0x00007FF619F81CFF]
+	(No symbol) [0x00007FF619F909CE]
+	(No symbol) [0x00007FF619FA4A9D]
+	(No symbol) [0x00007FF619FAB26A]
+	(No symbol) [0x00007FF619F82464]
+	(No symbol) [0x00007FF619FA48C3]
+	(No symbol) [0x00007FF61A02F467]
+	(No symbol) [0x00007FF61A00F113]
+	(No symbol) [0x00007FF619FDA918]
+	(No symbol) [0x00007FF619FDBA81]
+	GetHandleVerifier [0x00007FF61A4C6A2D+3379789]
+	GetHandleVerifier [0x00007FF61A4DC32D+3468109]
+	GetHandleVerifier [0x00007FF61A4D0043+3418211]
+	GetHandleVerifier [0x00007FF61A25C78B+847787]
+	(No symbol) [0x00007FF61A10757F]
+	(No symbol) [0x00007FF61A102FC4]
+	(No symbol) [0x00007FF61A10315D]
+	(No symbol) [0x00007FF61A0F2979]
+	BaseThreadInitThunk [0x00007FFD1F8D7374+20]
+	RtlUserThreadStart [0x00007FFD2077CC91+33]
+
+2025-01-15 15:22:22,040 - MainThread - INFO - Saved intermediate results with 81 entries
+2025-01-15 15:22:22,040 - MainThread - INFO - Scraping completed. Processed 81 companies successfully.
