@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask-1);
+      }
+
+      .cls-2 {
+        mask: url(#mask);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #1f497d;
+      }
+
+      .cls-5 {
+        fill: #fcc917;
+      }
+    </style>
+    <mask id="mask" x="65" y="65" width="170" height="85" maskUnits="userSpaceOnUse">
+      <g id="mask-2">
+        <polygon id="path-1" class="cls-3" points="65 65 235 65 235 150 65 150 65 65"/>
+      </g>
+    </mask>
+    <mask id="mask-1" x="65" y="126.2" width="166.6" height="108.8" maskUnits="userSpaceOnUse">
+      <g id="mask-4">
+        <polygon id="path-3" class="cls-3" points="65 126.2 231.6 126.2 231.6 235 65 235 65 126.2"/>
+      </g>
+    </mask>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <g class="cls-2">
+          <path id="Fill-17" class="cls-5" d="M150,65c11.2,0,21.8,2.2,31.6,6.1,7.6,3.1,14.7,7.2,21.1,12.2,17.4,13.7,29.4,34.1,32.3,57.3-1.3,7.4-9.6,11.6-16.4,7.7-13.4-7.6-26.9-24.1-40.1-32.1-19.3-11.6-38.2-11.7-57.3,0-12.8,7.8-25.9,23.7-38.6,31.7-7.7,4.8-16.3.8-17.5-6.9,3-25.1,16.6-46.9,36.2-60.6,3.9-2.7,8-5.1,12.2-7.2,11.1-5.3,23.5-8.3,36.5-8.3Z"/>
+        </g>
+        <g class="cls-1">
+          <path id="Fill-20" class="cls-4" d="M100.5,220.2c-18-12.3-31.1-31.3-35.5-53.5,10.6,3.2,19.6.8,28.3-4.5,12.9-7.8,25.9-24,39-31.5,10.5-6.1,21.2-6,31.9,0,13.6,7.8,27.3,24.2,40.7,32.2,8.2,4.9,16.6,6.7,25.9,4.2.3,0,.5-.2.9-.3-7.9,38.8-42.2,68.1-83.3,68.1s-25.6-3-36.7-8.4c-3.9-1.9-7.6-4-11.1-6.4"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

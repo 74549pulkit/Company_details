@@ -132,7 +132,7 @@ def main():
     
     # Combine dataframes
     all_companies = pd.concat([df1, df2], ignore_index=True)
-    all_companies = all_companies.head(100)  # Limit to first 100 companies for testing
+    # all_companies = all_companies.head(100)  # Limit to first 100 companies for testing
     # Create directory for logos
     logo_dir = r"Data/company_logos_stock_analysis"
     os.makedirs(logo_dir, exist_ok=True)

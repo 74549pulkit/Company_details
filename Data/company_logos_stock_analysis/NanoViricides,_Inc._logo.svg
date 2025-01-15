@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: #00529b;
+      }
+
+      .cls-3 {
+        fill: #222201;
+      }
+
+      .cls-4 {
+        fill: #59580e;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        fill: #ebcb4c;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="170.8" y1="185.4" x2="128.4" y2="117.3" gradientTransform="translate(0 302) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".5" stop-color="#8b782c"/>
+      <stop offset="1" stop-color="#614e02"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="157.6" y1="165.7" x2="143.9" y2="141" gradientTransform="translate(0 302) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffeb"/>
+      <stop offset=".5" stop-color="#817028"/>
+      <stop offset="1" stop-color="#564c1b"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <circle class="cls-2" cx="150" cy="150" r="85"/>
+        <circle class="cls-6" cx="150" cy="150" r="63.8"/>
+        <circle class="cls-5" cx="150" cy="150" r="42.5"/>
+        <circle class="cls-1" cx="150" cy="150" r="15.9"/>
+        <path class="cls-3" d="M213.8,150h-5.5s-1.6-27.4-18.4-41.8c-11.4-11-29.4-17.2-39.8-17.2v-4.8c35.2,0,63.8,28.5,63.8,63.8Z"/>
+        <polygon class="cls-4" points="152.7 65 149.9 65 147.3 65 147.3 124.7 142.9 124.7 142.9 126.1 144.2 126.1 150.2 139.6 155.8 126.1 157.1 126.1 157.1 124.7 152.7 124.7 152.7 65"/>
+        <polygon class="cls-4" points="234.8 144.7 235 147.3 235 150 177.3 150 177.3 154.7 175.9 154.7 175.9 153.5 162.3 147.5 175.9 141.8 175.9 140.5 177.3 140.5 177.3 144.7 234.8 144.7"/>
+      </g>
+    </g>
+  </g>
+</svg>

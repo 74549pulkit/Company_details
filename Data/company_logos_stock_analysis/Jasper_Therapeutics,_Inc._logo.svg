@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg inkscape:export-filename="mark-light.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)" sodipodi:docname="mark_light.svg" version="1.1" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg6556" inkscape:cx="-10.035321" inkscape:cy="185.65345" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="834" inkscape:window-maximized="0" inkscape:window-width="1395" inkscape:window-x="0" inkscape:window-y="25" inkscape:zoom="0.79718423" pagecolor="#ffffff" showgrid="false"/>
+ <defs>
+  <style>.cls-1,.cls-2{fill:#ce8a38;}.cls-1,.cls-3,.cls-4,.cls-5{fill-rule:evenodd;}.cls-3,.cls-6{fill:#a43534;}.cls-4{fill:url(#GradientFill_1);}.cls-5{fill:url(#GradientFill_1-2);}</style>
+  <radialGradient id="GradientFill_1" cx="35.37" cy="11.78" r="43.6" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dd9f42" offset="0"/>
+   <stop stop-color="#9c5d34" offset="1"/>
+  </radialGradient>
+  <radialGradient id="GradientFill_1-2" cx="23.49" cy="62.41" r="30.85" gradientTransform="matrix(1.4237 0 0 1.4237 9.9994 10.002)" xlink:href="#GradientFill_1"/>
+  <radialGradient id="radialGradient6560" cx="35.37" cy="11.78" r="43.6" gradientTransform="matrix(1.4237 0 0 1.4237 9.9994 10.002)" gradientUnits="userSpaceOnUse" inkscape:collect="always" xlink:href="#GradientFill_1"/>
+ </defs>
+ <g transform="matrix(2.5624 0 0 2.5624 54.99 10.392)" stroke-width="1.4237">
+  <path class="cls-4" d="m63.787 30.617c1.6088 12.358-1.5803 44.875-18.651 61.675-22.893 22.537 19.733-16.017-0.3844-55.824a19.562 19.562 0 0 0 19.035-5.8515z" fill="url(#radialGradient6560)"/>
+  <path class="cls-5" d="m33.861 98.67c-17.626-4.6698-25.114-24.103-21.911-41.117 1.3241 0.85423 8.6562 40.804 31.877 23.904-2.2352 6.4209-5.467 13.098-9.966 17.213z" fill="url(#GradientFill_1-2)"/>
+  <path class="cls-3" d="m12.306 56.272a1.1817 1.1817 0 1 0-1.1817-1.1817 1.1817 1.1817 0 0 0 1.1817 1.1817z"/>
+  <path class="cls-3" d="m12.505 49.965a2.5057 2.5057 0 1 0-2.5057-2.4915 2.5057 2.5057 0 0 0 2.5057 2.4915z"/>
+  <path class="cls-3" d="m15.281 41.622a4.0291 4.0291 0 1 0-4.0291-4.0291 4.0291 4.0291 0 0 0 4.0291 4.0291z"/>
+  <circle class="cls-6" cx="20.691" cy="26.36" r="6.0792"/>
+  <circle class="cls-6" transform="rotate(-80.38)" cx="-11.598" cy="37.081" r="7.6311"/>
+  <circle class="cls-6" transform="rotate(-13.28)" cx="44.589" cy="36.877" r="8.8697"/>
+ </g>
+</svg>

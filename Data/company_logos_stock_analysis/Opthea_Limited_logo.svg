@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="91.8" y1="213.4" x2="206.7" y2="145.8" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b5ba7"/>
+      <stop offset="1" stop-color="#63bbe2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="55.6" y1="101.4" x2="202.7" y2="103.3" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#62bbe2"/>
+      <stop offset="1" stop-color="#169fa6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="160.8" y1="219.3" x2="189.2" y2="94.8" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ecf6fb"/>
+      <stop offset=".9" stop-color="#196fb5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="55.6" y1="99" x2="202.8" y2="100.8" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#62bbe2"/>
+      <stop offset="1" stop-color="#169fa6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="116" y1="90.6" x2="210.1" y2="104.3" gradientTransform="translate(0 300) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e5890"/>
+      <stop offset="1" stop-color="#073b72"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <path class="cls-5" d="M146.9,97.6c40.2.9,62.5,15.2,88.1,42.6-4.9-46.8-46.8-80.7-93.6-75.8-40.6,4.3-72.5,36.8-75.9,77.5,9.7-10,46-45.1,81.4-44.3Z"/>
+        <path class="cls-1" d="M216.2,174.9c-13.5,38.3-55.5,58.5-93.9,45-4.3-1.5-8.4-3.4-12.3-5.6,11.5-2.6,22.5-6.8,32.8-12.3-34-3-54.5-17-77.9-42.1,4.9,46.8,46.8,80.7,93.6,75.8,40.6-4.3,72.5-36.8,75.9-77.5-5.8,5.9-11.9,11.5-18.3,16.7Z"/>
+        <path class="cls-3" d="M216.2,174.9c13.5-38.3-6.7-80.3-45.1-93.8-17.7-6.2-37.1-5.4-54.3,2.2,3.9,1.2,7.7,2.8,11.4,4.7,15.3,8.4,53.5,29.7,51.3,62.5-1.5,22.5-15.7,39.8-36.7,51.4,3.3.3,6.6.5,10.2.6,23.3.5,46.9-14.4,63.1-27.6Z"/>
+        <path class="cls-2" d="M146.8,224c31.2,0,59-19.7,69.4-49.2-16.2,13.2-39.9,28.1-63.1,27.6-3.5,0-6.9-.3-10.2-.6-10.3,5.6-21.4,9.7-32.8,12.3,11.2,6.4,23.8,9.8,36.7,9.8Z"/>
+        <path class="cls-4" d="M146.8,224c31.2,0,59-19.7,69.4-49.2-16.2,13.2-39.9,28.1-63.1,27.6-3.5,0-6.9-.3-10.2-.6-10.3,5.6-21.4,9.7-32.8,12.3,11.2,6.4,23.8,9.8,36.7,9.8Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
