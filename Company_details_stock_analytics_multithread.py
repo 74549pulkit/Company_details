@@ -48,7 +48,10 @@ def safe_log(message, level='info'):
 def save_logo(logo_url, company_name, logo_dir):
     """Save company logo to specified directory"""
     try:
-        logo_filename = os.path.join(logo_dir, f"{company_name.replace(' ', '_')}_logo.svg")
+        if logo_url.endswith("svg"): 
+            logo_filename = os.path.join(logo_dir, f"{company_name.replace(' ', '_')}_logo.svg")
+        else:
+            logo_filename = os.path.join(logo_dir, f"{company_name.replace(' ', '_')}_logo.png")
         response = requests.get(logo_url, timeout=10)
         response.raise_for_status()
         
@@ -129,9 +132,10 @@ def main():
     # Read input data
     df1 = pd.read_csv("Data/stock_analysis_screener_usa.csv")
     df2 = pd.read_csv("Data/stock_analysis_screener_OTC_USA.csv")
+    df3 = pd.read_csv("Data/stock_analysis_screener_usa_Drug_Manufacturers_General.csv")
     
     # Combine dataframes
-    all_companies = pd.concat([df1, df2], ignore_index=True)
+    all_companies = pd.concat([df1, df2, df3], ignore_index=True)
     # all_companies = all_companies.head(100)  # Limit to first 100 companies for testing
     # Create directory for logos
     logo_dir = r"Data/company_logos_stock_analysis"
@@ -176,7 +180,7 @@ def main():
     pbar.close()
     
     # Save final results
-    save_intermediate_results("Data/SA_Comapany_details_final_results.csv")
+    save_intermediate_results("Data/SA_Comapany_details_final_results_v2.csv")
     safe_log(f"Scraping completed. Processed {completed_count} companies successfully.")
 
 if __name__ == "__main__":
